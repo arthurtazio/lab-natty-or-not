@@ -20,19 +20,27 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Projeto: Voz tão natural quanto a luz do dia !!!
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Audio de um podcast criado totalmente com uso de IA, desde seu texto até o áudio
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+chatGPT
+ElevenLabs
+Lexica
+Notion
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Primeiro defini um assunto para abordar
+Segundo utilizei prompts para gerar o titulo, roteiro e sugestões no chatGPT
+Terceiro com base no título gerei um prompt para procurar uma imagem no Lexica
+Quarto peguei o roteiro criado pelo chatGPT e coloquei no ElevenLabs para gerar o audio
+Quinto coloquei tudo no Notion
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+E este foi o resultado 
+(https://www.notion.so/PAS-Podcast-AI-Studio-30eb29a7f75446e5b5ef73f715981277?p=473942cece2b4475bf16cad0f5648109&pm=c)
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
